@@ -1,3 +1,5 @@
+/*! reset.css v1.0.0 | MIT License | github.com/drone076/reset.css */
+
 /* Box sizing rules */
 *,
 *::before,
@@ -5,7 +7,7 @@
   box-sizing: border-box;
 }
 
-/* Remove default margin */
+/* Remove default margin/padding, inherit font */
 * {
   margin: 0;
   padding: 0;
@@ -23,6 +25,7 @@ html:focus-within {
   scroll-behavior: smooth;
 }
 
+/* Set document height */
 html,
 body {
   height: 100%;
