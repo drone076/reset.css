@@ -2,7 +2,7 @@
 
 > A modern CSS reset
 
-## Why another one CSS reset?
+## Why another CSS reset?
 
 In this modern era of web development, we don’t really need a heavy-handed reset, or even a reset at all, because CSS browser compatibility issues are much less likely than they were in the old IE 6 days. That era was when resets such as [normalize.css](https://github.com/necolas/normalize.css/) came about and saved us all heaps of hell. Those days are gone now and we can trust our browsers to behave more, so I think resets like that are probably mostly redundant.
 
