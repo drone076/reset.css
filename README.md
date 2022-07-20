@@ -32,3 +32,6 @@ In this modern era of web development, we don’t really need a heavy-handed res
 
 Please read the [contribution guidelines](CONTRIBUTING.md) in order to make the
 contribution process easy and effective for everyone involved.
+
+[license-image]: https://img.shields.io/npm/l/normalize.css.svg?style=flat-square
+[license-url]: LICENSE.md
