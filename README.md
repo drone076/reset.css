@@ -1,5 +1,9 @@
 # reset.css
 
+<a href="https://github.com/drone076/reset.css"><img
+  src="https://raw.githubusercontent.com/drone076/reset.css/main/icon/logo.svg" alt="reset.css Logo"
+  width="80" height="80" align="right"></a>
+
 > A modern CSS reset
 
 [![license][license-image]][license-url]
